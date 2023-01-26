@@ -1,0 +1,15 @@
+$background-color: rgb(20, 16, 16);
+$primary-text-color: #fff;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Archivo', sans-serif;
+  background-color: $background-color;
+  color: $primary-text-color;
+}
